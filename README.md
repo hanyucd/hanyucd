@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hanyucd)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=hanyucd&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+<--
 **hanyucd/hanyucd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
